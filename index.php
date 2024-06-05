@@ -5,6 +5,7 @@
     <title>CiTIM Grupo XB</title>
     <link rel="stylesheet" href="css/stem.css"/>
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+     <link rel="stylesheet" href="stem.css">
     <script src="js/codigo.js"></script>
 </head>
 <body>
